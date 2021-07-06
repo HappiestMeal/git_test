@@ -1,1 +1,0 @@
-This is HappiestMeal's first git project.
